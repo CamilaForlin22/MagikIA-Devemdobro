@@ -96,7 +96,7 @@
     max-width: 365px;
     background-color: #EDEDED;
     color: #0e0027;
-    border-radius: 20px;.02)
+    border-radius: 20px;
     box-shadow: 0 6px 12px rgb(0, 0,0.02);
 }
 
@@ -133,7 +133,7 @@
     color: #4d8e5c;
 }
 
-.container .carta .informacoes .btn-comprar{
+.container .cartas .carta .informacoes .btn-comprar{
     color: #EDEDED;
     background-color: #6528D3;
     padding: 16px;
